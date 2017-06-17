@@ -1,0 +1,8 @@
+C:\Users\rkatiyar\Downloads\MEFConsole\MEFConsole\MEFConsole\bin\Debug\MEFConsole.exe.config
+C:\Users\rkatiyar\Downloads\MEFConsole\MEFConsole\MEFConsole\obj\Debug\MEFConsole.csprojResolveAssemblyReference.cache
+C:\Users\rkatiyar\Downloads\MEFConsole\MEFConsole\MEFConsole\bin\Debug\MEFConsole.exe
+C:\Users\rkatiyar\Downloads\MEFConsole\MEFConsole\MEFConsole\bin\Debug\MEFConsole.pdb
+C:\Users\rkatiyar\Downloads\MEFConsole\MEFConsole\MEFConsole\bin\Debug\Interfaces.dll
+C:\Users\rkatiyar\Downloads\MEFConsole\MEFConsole\MEFConsole\bin\Debug\Interfaces.pdb
+C:\Users\rkatiyar\Downloads\MEFConsole\MEFConsole\MEFConsole\obj\Debug\MEFConsole.exe
+C:\Users\rkatiyar\Downloads\MEFConsole\MEFConsole\MEFConsole\obj\Debug\MEFConsole.pdb

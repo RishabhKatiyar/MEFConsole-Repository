@@ -1,0 +1,4 @@
+C:\Users\rkatiyar\Downloads\MEFConsole\MEFConsole\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\rkatiyar\Downloads\MEFConsole\MEFConsole\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\rkatiyar\Downloads\MEFConsole\MEFConsole\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\rkatiyar\Downloads\MEFConsole\MEFConsole\Interfaces\obj\Debug\Interfaces.pdb
